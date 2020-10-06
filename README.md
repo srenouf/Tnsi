@@ -4,7 +4,7 @@
 
 
 
-### Document de formation à Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=presentation.ipynb)
+### Document de formation à Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srenouf/Tnsi/master/master?filepath=presentation.ipynb)
 
 ### Environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srenouf/Tnsi/master?urlpath=apps/environnement.ipynb)
 
