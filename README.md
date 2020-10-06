@@ -9,7 +9,7 @@
 ### Environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srenouf/Tnsi/master?urlpath=apps/environnement.ipynb)
 
 
-### Sommaire du cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/sommaire.ipynb)
+### Sommaire du cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srenouf/Tnsi/master?urlpath=apps/sommaire.ipynb)
 
 
 ### Cours 00 - Mise en route
